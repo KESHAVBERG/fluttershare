@@ -1,0 +1,39 @@
+23/4/20
+first what we did is in the home page we check wether the user exists if he signedin.
+we the him to authed page.
+
+now to create a user whate we do is in handlesign we use a method called
+create user.for that first we need the user id.then in the collection we
+a document for user id.
+
+and we check if the user exists. If he does not exists then we navigate him
+to create acc page.
+
+24/4/20
+now i'm creating the upload page first we need to compress,and vreate file path
+in firebase storage.
+now we are going to upload the file
+ next we are creating the the profile page
+
+ then we create the post page for that in the post page
+ actually post scurtures the way in the image is shown in profile
+ then in profile we create a list
+ 25/4/2020
+ we created the heart button that we show when we double the post
+ now we are creating the comment
+ now we are creating for activityfeed
+ for that in post.dart we are creating two function one to add
+ and one to remove
+ 26/4/20
+ now we created the activity feed page
+ now we are creating the post view
+ now we are creating following and unfollowing
+ 27/4/20
+ now we are enabling the functions and creating r=the function to
+ delete post
+ now we are create function to show the post in the timeline of the other user
+ 28/4/20
+ now we create the time line page
+ 29/4/20
+ now we are trying to to preserve the state when the page are
+ changed
